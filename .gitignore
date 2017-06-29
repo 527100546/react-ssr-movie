@@ -7,5 +7,5 @@ node_modules
 
 .vscode/
 .idea/
-
+.zip
 npm-debug.log
